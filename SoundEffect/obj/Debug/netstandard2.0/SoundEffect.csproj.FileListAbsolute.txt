@@ -1,0 +1,14 @@
+C:\Users\TechXcape\source\repos\SoundEffect\SoundEffect\bin\Debug\netstandard2.0\SoundEffect.deps.json
+C:\Users\TechXcape\source\repos\SoundEffect\SoundEffect\bin\Debug\netstandard2.0\SoundEffect.dll
+C:\Users\TechXcape\source\repos\SoundEffect\SoundEffect\obj\Debug\netstandard2.0\SoundEffect.csprojAssemblyReference.cache
+C:\Users\TechXcape\source\repos\SoundEffect\SoundEffect\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\TechXcape\source\repos\SoundEffect\SoundEffect\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\TechXcape\source\repos\SoundEffect\SoundEffect\obj\Debug\netstandard2.0\SoundEffect.csproj.CoreCompileInputs.cache
+C:\Users\TechXcape\source\repos\SoundEffect\SoundEffect\obj\Debug\netstandard2.0\SoundEffect.AssemblyInfoInputs.cache
+C:\Users\TechXcape\source\repos\SoundEffect\SoundEffect\obj\Debug\netstandard2.0\SoundEffect.AssemblyInfo.cs
+C:\Users\TechXcape\source\repos\SoundEffect\SoundEffect\bin\Debug\netstandard2.0\ref\SoundEffect.dll
+C:\Users\TechXcape\source\repos\SoundEffect\SoundEffect\bin\Debug\netstandard2.0\SoundEffect.pdb
+C:\Users\TechXcape\source\repos\SoundEffect\SoundEffect\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\TechXcape\source\repos\SoundEffect\SoundEffect\obj\Debug\netstandard2.0\SoundEffect.dll
+C:\Users\TechXcape\source\repos\SoundEffect\SoundEffect\obj\Debug\netstandard2.0\ref\SoundEffect.dll
+C:\Users\TechXcape\source\repos\SoundEffect\SoundEffect\obj\Debug\netstandard2.0\SoundEffect.pdb
